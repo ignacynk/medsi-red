@@ -1,0 +1,21 @@
+{
+  "name": "react-router-basic-forked",
+  "version": "0.0.0",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.js",
+  "dependencies": {
+    "react": "18.1.0",
+    "react-dom": "latest",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
